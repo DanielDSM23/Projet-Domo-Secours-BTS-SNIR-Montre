@@ -5,12 +5,12 @@ ESP8266 / MSA301 / LCD SCREEN
 Projet BTS SNIR
 
 <ul>
-<li>Affiche date et heure</li>
-<li>Detecte chute</li>
-<li>Envoie MQTT lors d'une chute</li>
-<li>Sauvegarde base de donnée</li>
-<li>Modification Wi-Fi (SSID, mot de passe), serveur MQTT, serveur NTP via le port USB</li
-<li>Bouton d'urgence (à venir)</li>
+  <li>Affiche date et heure</li>
+  <li>Detecte chute</li>
+  <li>Envoie MQTT lors d'une chute</li>
+  <li>Sauvegarde base de donnée</li>
+  <li>Modification Wi-Fi (SSID, mot de passe), serveur MQTT, serveur NTP via le port USB</li>
+  <li>Bouton d'urgence (à venir)</li>
 </ul>
 
 ![alt text](http://daniel.monteiro1.free.fr/images/projetDS.jpg)
