@@ -1,4 +1,4 @@
-# Projet Domo-Secours BTS SNIR
+# Projet Domo-Secours BTS SNIR Montre (Detecteur de chute)
 
 ESP8266 / MSA301 / ECRAN LCD
 
