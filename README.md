@@ -11,3 +11,5 @@ Projet BTS SNIR
 <li>Sauvegarde base de donnée</li>
 <li>Modification Wi-Fi (SSID, mot de passe), serveur MQTT, serveur NTP via le port USB</li>
 </ul>
+
+![alt text](http://daniel.monteiro1.free.fr/images/projetDS.jpg)
