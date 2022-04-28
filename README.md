@@ -1,4 +1,4 @@
-# Projet_Domo-Secours_BTS_SNIR
+# Projet Domo-Secours BTS SNIR
 
 ESP8266 / MSA301 / ECRAN LCD
 
