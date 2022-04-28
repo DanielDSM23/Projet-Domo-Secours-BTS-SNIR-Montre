@@ -13,4 +13,4 @@ Projet BTS SNIR
   <li>Bouton d'urgence (à venir)</li>
 </ul>
 
-![alt text](https://raw.githubusercontent.com/DanielDSM23/Projet_Domo-Secours_BTS_SNIR/main/imageProjet.jpg)
+![alt text](https://www.zupimages.net/up/22/17/fpc0.jpg)
